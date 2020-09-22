@@ -8,17 +8,17 @@ end
 
 def subtraction(num1, num2)
   difference = num1 - num2
-  puts difference
+  return
 end
 
 def division(num1, num2)
   quotient = num2 / num1
-  puts quotient
+  return quotient
 end
 
 def multiplication(num1, num2)
   product = num1 * num2
-  puts product
+  return product
 end
 
 def modulo(num1, num2)
