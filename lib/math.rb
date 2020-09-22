@@ -4,7 +4,7 @@ def addition(num1, num2)
   return sum
 end
 
-def subtract(num2, num1)
+def subtraction(num2, num1)
   difference = num2 - num1
   return difference
 end
