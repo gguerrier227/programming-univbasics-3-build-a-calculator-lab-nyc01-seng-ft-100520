@@ -1,5 +1,3 @@
-num1 = 5
-num2 = 4
 
 def addition(num1, num2)
   sum = num1 + num2
@@ -11,7 +9,7 @@ def subtraction(num2, num1)
   return subtraction
 end
 
-def division('50', '2')
+def division(num2, num1)
   quotient = num2 / num1
   return quotient
 end
@@ -21,7 +19,7 @@ def multiplication(num1, num2)
   return product
 end
 
-def modulo('34', '5')
+def modulo(num2, num1)
   remain = num2 % num1
   return remain
 end
