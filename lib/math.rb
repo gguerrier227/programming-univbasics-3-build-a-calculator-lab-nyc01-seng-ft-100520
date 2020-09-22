@@ -27,5 +27,6 @@ def modulo(34, 5)
 end
 
 def square_root(num)
-
+  root = sqrt(81)
+  return root
 end
