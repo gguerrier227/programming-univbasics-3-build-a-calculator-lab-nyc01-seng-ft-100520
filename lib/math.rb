@@ -21,7 +21,7 @@ def multiplication(num1, num2)
   return product
 end
 
-def modulo(34, 5)
+def modulo(num1, num2)
   remain = num2 % num1
   return remain
 end
