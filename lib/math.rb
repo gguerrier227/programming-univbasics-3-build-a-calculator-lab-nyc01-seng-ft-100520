@@ -11,7 +11,7 @@ def subtraction(num2, num1)
   return subtraction
 end
 
-def division(num1, num2)
+def division('50', '2')
   quotient = num2 / num1
   return quotient
 end
@@ -21,7 +21,7 @@ def multiplication(num1, num2)
   return product
 end
 
-def modulo(num1, num2)
+def modulo('34', '5')
   remain = num2 % num1
   return remain
 end
