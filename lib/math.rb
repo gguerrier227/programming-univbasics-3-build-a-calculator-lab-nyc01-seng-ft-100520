@@ -11,7 +11,7 @@ def subtraction(num2, num1)
   return subtraction
 end
 
-def division(50, 2)
+def division( 50, 2)
   quotient = num2 / num1
   return quotient
 end
