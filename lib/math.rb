@@ -6,7 +6,7 @@ def addition(num1, num2)
   return sum
 end
 
-def subtraction(num1, num2)
+def subtraction(num2, num1)
   difference = num2 - num1
   return subtraction
 end
