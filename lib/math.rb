@@ -5,10 +5,8 @@ def addition(num1, num2)
 end
 
 def subtract(num2, num1)
-  num1 = 5
-  num2 = 10
   difference = num2 - num1
-  return subtract
+  return difference
 end
 
 def division(num2, num1)
