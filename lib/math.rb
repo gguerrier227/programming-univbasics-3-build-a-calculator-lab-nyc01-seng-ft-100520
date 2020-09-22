@@ -1,8 +1,9 @@
 num1 = 5
 num2 = 4
+
 def addition(num1, num2)
   sum = num1 + num2
-  puts "The sum is #{num1+num2}!"
+  return sum
 end
 
 def subtraction(num1, num2)
